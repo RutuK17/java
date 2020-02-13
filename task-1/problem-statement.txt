@@ -1,0 +1,6 @@
+Instructions:
+1. Use visual studio code text editor.
+2. Use powershell to compile and execute code.
+
+
+Write a program in java to print "Hello World".

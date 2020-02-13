@@ -1,0 +1,16 @@
+JDK - Java Development Kit
+It helps to building java application.
+It has compiler and java run time environment.
+
+When Function belongs to class, refer to it as method of class.
+
+Access modifiers:
+public,private
+
+Naming Convention:
+PascalNamingConvention  - Classes
+camelNamingConvention   - Methods
+
+void - returns no value
+
+static - you can call a method, even if you've never created the object to which it belongs.

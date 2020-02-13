@@ -1,0 +1,8 @@
+Write a program to print the following output using only one print statement.
+
+Output :
+
+Hello
+World
+
+Note : also explore the System.out.println and default imports
