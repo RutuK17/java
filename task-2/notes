@@ -1,0 +1,7 @@
+What is System.out.println?
+
+System is the class name, it is declared as final in java.lang package.
+
+out is an instance of the System class and is of type PrintStream.  Its access specifiers are public final.
+
+println – is a method of PrintStream class. println prints the argument passed to the standard console and a newline.
