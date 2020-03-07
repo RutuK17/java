@@ -1,0 +1,5 @@
+Write a program in java to print output given in attached image file.
+
+Image consists of the two columns of temperature in fahrenheit and its celsius equivalent. Given is the fahrenheit temperature we convert them into celsius scale and print the output.
+
+
