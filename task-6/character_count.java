@@ -2,8 +2,8 @@ class BlankCount {
     // Initializing counters
     public static int i;
            static int blanks=0;
-           static int tabs=0;
-           static int newline=0;
+           //static int tabs=0;
+           //static int newline=0;
 
         static int blankcount (String s){
 
@@ -11,12 +11,12 @@ class BlankCount {
             char ch = s.charAt(i);
             if (ch == ' ')
                 blanks++;
-            if (ch == '\t')
-                tabs++;
-            if (ch == '\n')
-                newline++;
+            //if (ch == '\t')
+            //    tabs++;
+            //if (ch == '\n')
+            //    newline++;
         }
-
+          return blanks++;
         }
 
 
@@ -35,7 +35,7 @@ class BlankCount {
         //string is always passed in double quotes
 
         System.out.println("The number of Blanks :  "+blanks);
-        System.out.println("The number of Tabs :  "+tabs);
-        System.out.println("The number of Newline :  "+newline);
+        //System.out.println("The number of Tabs :  "+tabs);
+        //System.out.println("The number of Newline :  "+newline);
     }
 }
